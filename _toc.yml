@@ -3,6 +3,8 @@
 
 format: jb-book
 root: intro
-- file: lectures
-- file: notebooks
-- file: INFOMTALC2025_Seminar_1
+defaults:  # The defaults key will be applied to all chapters and sub-sections
+  titlesonly: True
+  chapters:
+  - file: lectures
+  - file: notebooks

@@ -3,7 +3,14 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: lectures
-- file: notebooks
+      parts:
+      - caption: Lectures
+      	chapters:
+	- file: lectures
+      - caption: Notebooks
+      	- file: notebooks
+      	- file: INFOMTALC2025_Seminar_1.ipynb
+	- file: INFOMTALC2025_Seminar_2.ipynb
+	- file: INFOMTALC2025_Seminar_3.ipynb
+	- file: INFOMTALC2025_Seminar_4.ipynb
 

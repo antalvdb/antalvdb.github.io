@@ -4,4 +4,3 @@ root: intro
 chapters:
   - file: lectures
   - file: notebooks
-  - file: INFOMTALC2025_Seminar_1

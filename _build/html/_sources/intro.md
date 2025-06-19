@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book
+# Transformers: Applications in Language and Communication
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This website accompanies the Utrecht University Applied Data Science course Transformers: Applications in Language and Communication.
 
-Check out the content pages bundled with this sample book to see more.
+The Applied Data Science program is a one-year Master program. The live course is held yearly in February-April. 
+The current webpages reflect the course content from the 2025 issue.
 
 ```{tableofcontents}
 ```

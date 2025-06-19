@@ -3,10 +3,6 @@
 
 format: jb-book
 root: intro
-      parts:
-      - caption: Lectures
-      	chapters:
-	- file: lectures
-      - caption: Notebooks
-      	- file: notebooks
-	- file: INFOMTALC2025_Seminar_1
+- file: lectures
+- file: notebooks
+- file: INFOMTALC2025_Seminar_1

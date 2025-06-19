@@ -1,8 +1,6 @@
 # Notebooks
 
-## Notebook 1: 
-
-file: INFOMTALC2025_Seminar_1.ipynb
+## Notebook 1: [on Colab](https://colab.research.google.com/drive/1aAvxhsVmM2-OoDn6Fs1gSY3P_xbNmDdT?usp=sharing)
 
 ## Notebook 2:
 

@@ -9,24 +9,29 @@ This website accompanies the [Utrecht University](https://www.uu.nl/en) [Applied
 > history did not start in 2017. However, with the release of ChatGPT
 > in November 2022, the Transformer, the T in GPT, suddenly became the
 > number one working horse in AI. It changed the field of natural
-> language processing overnight, and its revolutionary industrial
-> impact might be huge and lasting. Yet, the working horse at its core
-> can only do one thing: *predict the next word*.
+> language processing (the field of this course's lecturers)
+> overnight, and its revolutionary industrial impact might be huge and
+> lasting. Yet, the working horse at its core can only do one thing:
+> *predict the next word*.
 
 The [Applied Data Science Master](https://www.uu.nl/en/masters/applied-data-science) program is a one-year Master program. The live course is held yearly in February-April. The current webpages reflect the course content from the 2025 issue.
 
-The content was created by Antal van den Bosch, Lisa Bylinina, Yingjin
-Song, and Yupei Du. We took an effort in properly quoting and
+The content was created by [Antal van den
+Bosch](https://antalvandenbosch.nl/), [Lisa
+Bylinina](https://bylinina.github.io/), Yingjin Song, and [Yupei
+Du](https://yupei.nl/). We took an effort in properly quoting and
 crediting content of others; please notify [Antal van den
 Bosch](mailto:a.p.j.vandenbosch@uu.nl) in case the current material
 needs a correction.
 
-Some of the Jupyter Notebooks accompanying the course (that have been
-optimized to run on Google Colab) are based on the notebooks that came
-with the book [Natural Language Processing with
+Some of the [Jupyter Notebooks](https://jupyter.org/) accompanying the
+course (that have been optimized to run on [Google
+Colab](https://colab.research.google.com/)) are based on the notebooks
+that came with the book [Natural Language Processing with
 Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 by Lewis Tunstall, Leandro von Werra, and Thomas Wolf. Other sources
-of inspiration are quoted in the respective notebooks.
+of inspiration are quoted in the respective lecture slides and Jupyter
+notebooks.
 
 The images containing imaginary Transformer bots in various lab or
 outside settings were created in

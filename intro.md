@@ -17,5 +17,10 @@ Transformers](https://www.oreilly.com/library/view/natural-language-processing/9
 by Lewis Tunstall, Leandro von Werra, and Thomas Wolf. Other sources
 of inspiration are quoted in the respective notebooks.
 
+The images containing imaginary Transformer bots in various lab or
+outside settings were created in
+[Midjourney](https://www.midjourney.com/home), with prompts that
+always included "1950s science fiction book cover style".
+
 ```{tableofcontents}
 ```

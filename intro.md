@@ -3,16 +3,17 @@
 This website accompanies the [Utrecht University](https://www.uu.nl/en) [Applied Data Science Master](https://www.uu.nl/en/masters/applied-data-science) course **Transformers: Applications in Language and Communication**.
 
 > This course introduces you to Transformers, a class of deep learning
-> neural networks based on the Transformer architecture. Although this
-> architecture was introduced relatively recently, in [this 2017
-> paper](https://https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf),
-> history did not start in 2017. However, with the release of ChatGPT
-> in November 2022, the Transformer, the T in GPT, soon became the
-> number one working horse in AI. It changed the field of natural
-> language processing (the field of this course's lecturers)
-> overnight, and its revolutionary industrial impact might be huge and
-> lasting. Yet, the working horse at its core can only do one thing:
-> *predict the next word*.
+> neural networks based on the Transformer architecture, introduced in
+> [this 2017
+> paper](https://https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf). With
+> the release of ChatGPT in November 2022, the Transformer, the T in
+> GPT, firmly took position as the number one working horse in AI. It
+> changed the field of natural language processing (the field of this
+> course's lecturers) overnight, and its revolutionary industrial
+> impact might be huge and lasting. Yet, the working horse at its core
+> can only do one thing: *predict the next word*. How is this possible
+> and how does it work? What are the problematic aspects of this
+> technology and what are the current developments?
 
 The [Applied Data Science Master](https://www.uu.nl/en/masters/applied-data-science) program is a one-year Master program. The live course is held yearly in February-April. The current webpages reflect the course content from the 2025 issue.
 

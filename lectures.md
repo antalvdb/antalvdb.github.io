@@ -17,9 +17,15 @@ all things that matter in the input seen so far, *attention*. This
 lecture introduces the key concepts and building blocks of the
 Transformer architecture.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpKK7zSvUDG2ZvRPezXswYL8x5okovHlEFcM7fQHl63Rxat6jKx2GPHVMtoeWtrQeZJ6Yvt4V74TtI/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHY0smV_pf2zUBAn-cSDNTiY_CxzdNqQz1svPLcUbA3Muh-GFATFy280LrgCu5lu6dAKRCMjmMUJbA/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Lecture 3: Transformers recap, In-context learning, Post-training, Tools and agents
+
+After a short recap of the Transformer architecture, we dive into a
+select number of unique aspects of training Transformers: in-context
+learning, post-training.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrHB_THbDDvlR7smOM6TzrblZZ4BvEnS4TUv-0GRiMUoEDG4HmhbSTBz1DQwWeXIsc_28wmxMvm-JB/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Lecture 4: Benchmarking LLMs
 

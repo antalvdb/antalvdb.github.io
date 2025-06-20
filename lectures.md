@@ -7,7 +7,7 @@ network hype: the Perceptron era, the Back-propagation era, and the
 Deep learning era. It sketches the evolution from Jeff Elman's
 recurrent neural nets to GRUs, LSTMs and the Transformer.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkYxTkBF46de_1v7PZFRVNo4x6Mxdoc_7S19MNSZLVruw2ThpwOfsdb1rGOEqpOb7ZB5GU0HmAagHN/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsDs8NCjltv9oMxhV61KXKRFUyJ6hvq9gJ6gwcEwoIWX1QHM6l5HUvO636qyG3XHh9L2wBixcMqNP6/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Lecture 2: Transformers: Key concepts and building blocks
 
@@ -22,6 +22,15 @@ Transformer architecture.
 ## Lecture 3: Transformers recap, In-context learning, Post-training, Tools and agents
 
 ## Lecture 4: Benchmarking LLMs
+
+Evaluating LLMs is not a simple matter. Many evaluation metrics and
+benchmarks that emerged from the field of natural language processing
+are still usable, but the capabilities of chatbots based on
+autoregressive encoder Transformers (so-called Generative AI) have
+spawned an entirely new type of benchmark task that increasingly looks
+like the tests we took at school or in college.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVB7NL9254N3hemwZy3o6pHjatOKY_i1fjPl1_e4WTndE2mPbz-5gpJkc8g5F1LXLs3YeEN56Vdpyk/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Lecture 5: Data, bias, alignment
 

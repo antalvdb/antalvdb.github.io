@@ -35,11 +35,76 @@ Wolf. See the [full notebook
 collection](https://github.com/nlp-with-transformers/notebooks) for
 this book.
 
-## Notebook 2
+## Notebook 2: Text generation with GPT
 
-## Notebook 3:
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1MxJucIR3UL9YbGiTmkD6ZMwJeL8dM3Ie?usp=sharing)
 
-## Notebook 4:
+In the lecture we talk a lot about different types of
+transformer-based models. But before we dive in, we wanted to take
+some time to look at one particular type of models in more detail:
+models trained for text generation. These are the models that became
+most prominent recently, because they lie at the core of all the
+amazing and popular large language models that have been taking the
+world by storm in the last couple of years (think ChatGPT, Claude,
+LLama, DeepSeek etc.). Later, we will talk in some detail about how
+these modern interactive models relate to the basic text-generating
+models like the one we will look at today.
+
+Today, we are going to explore text generation with GPT-style
+Transformers. This notebook loosely follows Chapter 5 of the Natural
+Language Processing With Transformers book, and its associated
+notebook. This notebook introduces you to some concepts related to
+generating text, and features two exercises:
+
+The first exercise of this seminar focuses on hyperparameters for text
+generation (in particular, temperature).
+
+The second exercise is about testing the capacities of GPT-2, the
+predecessor of GPT-3 and 4, in your native language.
+
+We are going to use the gpt2 model on Hugging Face. If your runtime
+engine allows it, you may also try the larger models GPT-Medium,
+GPT-Large, or GPT-XL. Performance quality tends to go up with larger
+models.
+
+## Notebook 3: The Transformer Anatomy Lesson
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1sb_S_oAQWvU-hlXcTqCtzaSWFsH0q-bw?usp=sharing)
+
+The notebook for this seminar consists of two parts:
+
+* PART I: Writing up a transformer encoder, in which we implement a
+  transformer encoder in PyTorch. Note that we will not train it. In
+  this implementation, we pretty closely follow Chapter 3 of the
+  textbook.
+
+* PART II: Visualizing attention, in which we use the
+  [bertviz](https://github.com/jessevig/bertviz) library to visualize
+  internals of
+  [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased),
+  a pretrained BERT model.
+
+## Notebook 4: Tokenizers and Tools
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1ve_gtqXIyN1W2KOwP5SRb7LhcB-cLEtH?usp=sharing)
+
+This notebook consists of two parts that have to do with the two
+different topics covered in lecture 4:
+
+* PART I: **Tokenization and character-level information**. In lecture 4,
+  we discussed standard practices of text tokenization for recent
+  transformer language models. In particular, the most common subword
+  tokenization algorithm, BPE, was introduced. Additionally, we
+  discussed character-level tokenization as an alternative to subword
+  tokenization algorithms.
+
+* PART II: **Tools and agents**. During the lecture, we mentioned that
+  recently, language models have been equipped with the use of tools;
+  -- LM output is used to trigger external instruments, such as web
+  search, calculator etc. The output of running these external
+  instruments then can be fed back to the LM and conditions its text
+  generation. We will take a look at agents and tools with the
+  [smolagents](https://huggingface.co/docs/smolagents/en/index) library.
 
 ## Notebook 5:
 

@@ -24,7 +24,7 @@ Bylinina](https://bylinina.github.io/), Yingjin Song, and [Yupei
 Du](https://yupei.nl/). We took an effort in properly quoting and
 crediting content of others; please notify [Antal van den
 Bosch](mailto:a.p.j.vandenbosch@uu.nl) in case the current material
-needs a correction.
+needs a correction or a credit.
 
 Some of the [Jupyter Notebooks](https://jupyter.org/) accompanying the
 course (that have been optimized to run on [Google

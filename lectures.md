@@ -47,19 +47,26 @@ where does all that data come from? What type of biases occur in them?
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnhPPkLkRBv4eG5etjYcJwOyfftEN1nkO5T-wr_c5Kpc17bTx_FGQMSskPgxIib1b2qsT3T9MrhGR9/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Lecture 6: LLM Optimization
+## Lecture 6: Efficient LLMs
+
+LLM efficiency is a big issue; the size wars of the commercial LLM
+providers are fortunately complemented with smart countermeasures that
+optimize aspects of the LLM architecture and processes. Not being able
+to ever be complete, this lecture covers quantization, speculative
+decoding, the Chinchilla scaling law, and parameter-efficient
+finetuning (PEFT).
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgWdDJiLWw7UCszgLmf0Gyewj7JSDYwPH-IQM5OiwZvkVF_aIHfHRJ4vVJVE2Gam_6_UGIxYA0-g02/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Lecture 7: Reasoning in LLMs
 
-## Lecture 8: RAG and QA Applications
+## The Mixed Bag Lecture
 
-## Lecture 9: Miscellaneous
-
-A Transformers course cannot be over in 8 lectures; there are so many
-more interesting topics to cover. Let's talk about Mixtures of
-Experts, watermarking and fingerprinting, the predictive brain in
-cognitive neuroscience, and
-[TESCREAL](https://en.wikipedia.org/wiki/TESCREAL).
+There are so many more interesting topics to cover that we cannot fit
+in a single teaching block. What about Mixtures of Experts,
+watermarking and fingerprinting, the predictive brain in cognitive
+neuroscience, [TESCREAL](https://en.wikipedia.org/wiki/TESCREAL)?
+Which topics will we cover in next year's mixed bag lecture?
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeSn4TJXrX2lW9RUV87LwywfkczSmwKOsS6minER7YNS7XylMZCCOF1fFUzh97P37un4x1ggCEzxjj/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

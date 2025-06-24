@@ -1,6 +1,6 @@
 # Transformers: Applications in Language and Communication
 
-<img src="UU_logo_2021_EN_RGB.png" alt="UU" class="bg-primary" width="200px" align="right"/>
+<img src="./UU_logo_2021_EN_RGB.png" alt="UU" class="bg-primary" width="200px" align="right"/>
 
 This website accompanies the [Utrecht University](https://www.uu.nl/en) [Applied Data Science Master](https://www.uu.nl/en/masters/applied-data-science) course **Transformers: Applications in Language and Communication**.  
 

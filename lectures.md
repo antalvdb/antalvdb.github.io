@@ -56,9 +56,18 @@ to ever be complete, this lecture covers quantization, speculative
 decoding, the Chinchilla scaling law, and parameter-efficient
 finetuning (PEFT).
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgWdDJiLWw7UCszgLmf0Gyewj7JSDYwPH-IQM5OiwZvkVF_aIHfHRJ4vVJVE2Gam_6_UGIxYA0-g02/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgWdDJiLWw7UCszgLmf0Gyewj7JSDYwPH-IQM5OiwZvkVF_aIHfHRJ4vVJVE2Gam_6_UGIxYA0-g02/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Lecture 7: Reasoning in LLMs
+
+LLMs are to some extent capable of reasoning. One way is by running an
+internal dialogue, a 'chain of thought', thereby allowing building a
+reasoning chain in multiple hops. Within bounds they can even reason
+by propagation of information in the internal graph of the Transformer
+architecture. In this lecture we talk about both these types of
+implicit and explicit reasoning.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS34Qm_ZF0nNnB7FvT5ki2PRImW6i1vuHqN-q6X8DILVZMgSVoeCWYgqpCGAO2TZXd3fsfWtmdiSjdV/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## The Mixed Bag Lecture
 

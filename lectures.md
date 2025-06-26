@@ -75,7 +75,7 @@ There are so many more interesting topics to cover that we cannot fit
 in a single teaching block. In this lecture we scoop up some
 miscellaneous and related topics such as Mixtures of Experts,
 watermarking and fingerprinting, the predictive brain in cognitive
-neuroscience, [TESCREAL](https://en.wikipedia.org/wiki/TESCREAL)?
+neuroscience, [TESCREAL](https://en.wikipedia.org/wiki/TESCREAL).
 Which topics will we cover in next year's mixed bag lecture?
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeSn4TJXrX2lW9RUV87LwywfkczSmwKOsS6minER7YNS7XylMZCCOF1fFUzh97P37un4x1ggCEzxjj/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

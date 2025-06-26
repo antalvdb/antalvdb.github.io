@@ -3,7 +3,7 @@
 
 title: Transformers
 author: Antal van den Bosch, Lisa Bylinina, Yupei Du, Yingjin Song
-logo: antalb_looking_over_the_shoulder_of_a_transformer_robot_reading_84cc821f-a71d-4935-9a2d-cb33114959b7.png
+logo: images/antalb_looking_over_the_shoulder_of_a_transformer_robot_reading_84cc821f-a71d-4935-9a2d-cb33114959b7.png
 
 sphinx:
   recursive_update: true

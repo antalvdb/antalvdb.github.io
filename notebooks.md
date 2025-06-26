@@ -1,5 +1,6 @@
 # Notebooks
 
+(notebook1)=
 ## Notebook 1: Basics; and how to fine-tune a text classifier.
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1aAvxhsVmM2-OoDn6Fs1gSY3P_xbNmDdT?usp=sharing).
@@ -35,6 +36,7 @@ Wolf. See the [full notebook
 collection](https://github.com/nlp-with-transformers/notebooks) for
 this book.
 
+(notebook2)=
 ## Notebook 2: Text generation with GPT
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1MxJucIR3UL9YbGiTmkD6ZMwJeL8dM3Ie?usp=sharing)
@@ -67,6 +69,7 @@ engine allows it, you may also try the larger models GPT-Medium,
 GPT-Large, or GPT-XL. Performance quality tends to go up with larger
 models.
 
+(notebook3)=
 ## Notebook 3: The Transformer Anatomy Lesson
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1sb_S_oAQWvU-hlXcTqCtzaSWFsH0q-bw?usp=sharing)
@@ -84,19 +87,20 @@ The notebook for this seminar consists of two parts:
   [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased),
   a pretrained BERT model.
 
+(notebook4)=
 ## Notebook 4: Tokenizers and Tools
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1ve_gtqXIyN1W2KOwP5SRb7LhcB-cLEtH?usp=sharing)
 
 This notebook consists of two parts that have to do with the two
-different topics covered in lecture 4:
+different topics covered in {ref}`lecture4`:
 
-* PART I: **Tokenization and character-level information**. In lecture 4,
-  we discussed standard practices of text tokenization for recent
-  transformer language models. In particular, the most common subword
-  tokenization algorithm, BPE, was introduced. Additionally, we
-  discussed character-level tokenization as an alternative to subword
-  tokenization algorithms.
+* PART I: **Tokenization and character-level information**. In
+  {ref}`lecture4` we discussed standard practices of text tokenization
+  for recent transformer language models. In particular, the most
+  common subword tokenization algorithm, BPE, was
+  introduced. Additionally, we discussed character-level tokenization
+  as an alternative to subword tokenization algorithms.
 
 * PART II: **Tools and agents**. During the lecture, we mentioned that
   recently, language models have been equipped with the use of tools;
@@ -106,15 +110,27 @@ different topics covered in lecture 4:
   generation. We will take a look at agents and tools with the
   [smolagents](https://huggingface.co/docs/smolagents/en/index) library.
 
-## Notebook 5:
+(notebook5)=
+## Notebook 5: Transformers for NLP
 
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1teoyckS5ZTbGZqHSCxrjyQL9gXgG3KAo?usp=sharing)
+
+In this Notebook we exemplify how to use Transformers for NLP tasks such as multi-lingual named-entity recognition,
+
+(notebook6)=
 ## Notebook 6: Efficient LLM Inference
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1-te53ydLjnP-YHUuwthO0G8Z44bB1yq6?usp=sharing)
 
 In this notebook we exemplify two efficient inference approaches: int8 quantization and speculative decoding, as discussed in {ref}`lecture6`.
 
-## Notebook 7: 
+## Notebook 7: Reasoning with LLMs
 
-## Notebook 8:
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1Mp6Ehq8HxVx_bCRUEMa9c6Fk15oyVUxk?usp=sharing)
+
+Accompanying {ref}'lecture7', this Notebook walks you through
+inference using Qwen-2.5-1.5B and DeepSeek-R1-Distill-Qwen-1.5B. You
+are introduced in comparing direct versus chain-of-thought reasoning,
+with math problem solving as the test domain.
+
 

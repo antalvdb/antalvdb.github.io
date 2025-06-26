@@ -55,6 +55,8 @@ where does all that data come from? What type of biases occur in them?
 (lecture6)=
 ## Lecture 6: Efficient LLMs
 
+This lecture is accompanied by {ref}`notebook6`.
+
 LLM efficiency is a big issue; the size wars of the commercial LLM
 providers are fortunately complemented with smart countermeasures that
 optimize aspects of the LLM architecture and processes. Not being able
@@ -66,6 +68,8 @@ finetuning (PEFT).
 
 (lecture7)=
 ## Lecture 7: Reasoning in LLMs
+
+This lecture is accompanied by {ref}`notebook7`.
 
 LLMs are to some extent capable of reasoning. One way is by running an
 internal dialogue, a 'chain of thought', thereby allowing building a

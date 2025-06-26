@@ -2,8 +2,8 @@
 
 ```{image} images/UU_logo_2021_EN_RGB.png
 :alt: UU
-:class: bg-primary mb-1
-:width: 200px
+:class: bg-white mb-1
+:width: 250px
 :align: right
 ```
 This website accompanies the [Utrecht University](https://www.uu.nl/en) [Applied Data Science Master](https://www.uu.nl/en/masters/applied-data-science) course **Transformers: Applications in Language and Communication**.  

@@ -108,7 +108,11 @@ different topics covered in lecture 4:
 
 ## Notebook 5:
 
-## Notebook 6: 
+## Notebook 6: Efficient LLM Inference
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1-te53ydLjnP-YHUuwthO0G8Z44bB1yq6?usp=sharing)
+
+In this notebook we exemplify two efficient inference approaches: int8 quantization and speculative decoding, as discussed in {ref}`lecture6`.
 
 ## Notebook 7: 
 

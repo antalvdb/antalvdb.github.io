@@ -1,5 +1,6 @@
 # Lectures
 
+(lecture1)=
 ## Lecture 1: Introduction and a brief history of neural networks
 
 This lecture maps a travel route past the three waves of neural
@@ -9,6 +10,7 @@ recurrent neural nets to GRUs, LSTMs and the Transformer.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsDs8NCjltv9oMxhV61KXKRFUyJ6hvq9gJ6gwcEwoIWX1QHM6l5HUvO636qyG3XHh9L2wBixcMqNP6/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+(lecture2)=
 ## Lecture 2: Transformers: Key concepts and building blocks
 
 The Transformer is the current best solution to predicting the next
@@ -19,6 +21,7 @@ Transformer architecture.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHY0smV_pf2zUBAn-cSDNTiY_CxzdNqQz1svPLcUbA3Muh-GFATFy280LrgCu5lu6dAKRCMjmMUJbA/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+(lecture3)=
 ## Lecture 3: Transformers recap, In-context learning, Post-training, Tools and agents
 
 After a short recap of the Transformer architecture, we dive into a
@@ -27,6 +30,7 @@ learning, post-training.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrHB_THbDDvlR7smOM6TzrblZZ4BvEnS4TUv-0GRiMUoEDG4HmhbSTBz1DQwWeXIsc_28wmxMvm-JB/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+(lecture4)=
 ## Lecture 4: Benchmarking LLMs
 
 Evaluating LLMs is not a simple matter. Many evaluation metrics and
@@ -38,6 +42,7 @@ like the tests we took at school or in college.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVB7NL9254N3hemwZy3o6pHjatOKY_i1fjPl1_e4WTndE2mPbz-5gpJkc8g5F1LXLs3YeEN56Vdpyk/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+(lecture5)=
 ## Lecture 5: Data, bias, alignment
 
 Data is a key ingredient to training and fine-tuning
@@ -47,6 +52,7 @@ where does all that data come from? What type of biases occur in them?
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnhPPkLkRBv4eG5etjYcJwOyfftEN1nkO5T-wr_c5Kpc17bTx_FGQMSskPgxIib1b2qsT3T9MrhGR9/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+(lecture6)=
 ## Lecture 6: Efficient LLMs
 
 LLM efficiency is a big issue; the size wars of the commercial LLM
@@ -58,6 +64,7 @@ finetuning (PEFT).
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgWdDJiLWw7UCszgLmf0Gyewj7JSDYwPH-IQM5OiwZvkVF_aIHfHRJ4vVJVE2Gam_6_UGIxYA0-g02/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+(lecture7)=
 ## Lecture 7: Reasoning in LLMs
 
 LLMs are to some extent capable of reasoning. One way is by running an
@@ -69,6 +76,7 @@ implicit and explicit reasoning.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS34Qm_ZF0nNnB7FvT5ki2PRImW6i1vuHqN-q6X8DILVZMgSVoeCWYgqpCGAO2TZXd3fsfWtmdiSjdV/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+(lecturemisc)=
 ## The Mixed Bag Lecture
 
 There are so many more interesting topics to cover that we cannot fit

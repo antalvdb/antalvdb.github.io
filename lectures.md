@@ -72,7 +72,8 @@ implicit and explicit reasoning.
 ## The Mixed Bag Lecture
 
 There are so many more interesting topics to cover that we cannot fit
-in a single teaching block. What about Mixtures of Experts,
+in a single teaching block. In this lecture we scoop up some
+miscellaneous and related topics such as Mixtures of Experts,
 watermarking and fingerprinting, the predictive brain in cognitive
 neuroscience, [TESCREAL](https://en.wikipedia.org/wiki/TESCREAL)?
 Which topics will we cover in next year's mixed bag lecture?

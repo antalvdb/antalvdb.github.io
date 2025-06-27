@@ -8,7 +8,7 @@
 ```
 This website accompanies the [Utrecht University](https://www.uu.nl/en) [Applied Data Science Master](https://www.uu.nl/en/masters/applied-data-science) course **Transformers: Applications in Language and Communication**.  
 
-> This course introduces you to Transformers, introduced in
+> This course introduces you to Transformers, introduced in {cite}`10.5555/3295222.3295349` 
 > [this 2017
 > paper](https://https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf). With
 > the release of ChatGPT in November 2022, the Transformer, the T in

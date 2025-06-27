@@ -4,3 +4,4 @@ root: intro
 chapters:
   - file: lectures
   - file: notebooks
+  - file: references

@@ -50,7 +50,7 @@ The materials on this website are [CC-BY-4.0](https://creativecommons.org/licens
 :alt: cc-by
 :class: bg-white mb-1
 :width: 150px
-:align: center
+:align: left
 ```
 
 ```{tableofcontents}

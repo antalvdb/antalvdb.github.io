@@ -128,7 +128,7 @@ In this notebook we exemplify two efficient inference approaches: int8 quantizat
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1Mp6Ehq8HxVx_bCRUEMa9c6Fk15oyVUxk?usp=sharing)
 
-Accompanying {ref}'lecture7', this Notebook walks you through
+Accompanying {ref}`lecture7`, this Notebook walks you through
 inference using Qwen-2.5-1.5B and DeepSeek-R1-Distill-Qwen-1.5B. You
 are introduced in comparing direct versus chain-of-thought reasoning,
 with math problem solving as the test domain.

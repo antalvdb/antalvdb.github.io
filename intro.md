@@ -46,10 +46,12 @@ always included "1950s science fiction book cover style".
 
 The materials on this website are [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
 
-<table><tr>
-<td> <img src="images/cc.xlarge.png" alt="CC" style="width: 100px;"/> </td>
-<td> <img src="images/by.xlarge.png" alt="BY" style="width: 100px;"/> </td>
-</tr></table>
+```{image} images/cc-by.png
+:alt: cc-by
+:class: bg-white mb-1
+:width: 150px
+:align: center
+```
 
 ```{tableofcontents}
 ```

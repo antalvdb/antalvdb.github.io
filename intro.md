@@ -52,5 +52,7 @@ The materials on this website are [CC-BY-4.0](https://creativecommons.org/licens
 :align: left
 ```
 
+---
+
 ```{tableofcontents}
 ```

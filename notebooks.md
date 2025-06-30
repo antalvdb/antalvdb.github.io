@@ -7,20 +7,12 @@
 
 This course introduces you to Transformers, a class of deep learning
 neural networks based on the Transformer architecture. Although this
-architecture was introduced relatively recently, in [this 2017
-paper](https://https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf),
-history did not start in 2017. Many of the components in and ideas
-behind the Transformer have a history that harks back to the first
-wave of neural network research ([McCulloch & Pitts,
-1943](https://https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf);
-[Rosenblatt,
-1958](https://https://psycnet.apa.org/record/1959-09865-001); [Minsky
-& Papert,
-1969](https://https://direct.mit.edu/books/book/3132/PerceptronsAn-Introduction-to-Computational)),
-as well as the second wave ([Rumelhart & McClelland,
-1986](https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/);
-[Elman,
-1990](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1402_1)).
+architecture was introduced relatively recently
+{cite}`10.5555/3295222.3295349`, history did not start in 2017. Many
+of the components in and ideas behind the Transformer have a history
+that harks back to the first wave of neural network research
+{cite}`mcculloch43a,rosenblatt1958,minsky1969`, as well as the second
+wave {cite}`rumelhart86,Elman1990`.
 
 Although we will focus on Transformers in this course, in this seminar
 notebook we will cover some wider basics of [Hugging

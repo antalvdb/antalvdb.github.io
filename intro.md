@@ -50,6 +50,9 @@ always included "1950s science fiction book cover style".
 :align: left
 ```
 The materials on this website are [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
-\
+
+---
++++
+
 ```{tableofcontents}
 ```

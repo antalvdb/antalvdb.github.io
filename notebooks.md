@@ -39,24 +39,28 @@ some time to look at one particular type of models in more detail:
 models trained for text generation. These are the models that became
 most prominent recently, because they lie at the core of all the
 amazing and popular large language models that have been taking the
-world by storm in the last couple of years (think ChatGPT, Claude,
-LLama, DeepSeek etc.). Later, we will talk in some detail about how
-these modern interactive models relate to the basic text-generating
-models like the one we will look at today.
+world by storm in the last couple of years (think
+[ChatGPT](https://chatgpt.com/), [Claude](https://claude.ai/),
+[LLaMa](https://www.llama.com/models/llama-4/),
+[DeepSeek](https://www.deepseek.com/en) etc.). Later, we will talk in
+some detail about how these modern interactive models relate to the
+basic text-generating models like the one we will look at in this
+notebook.
 
-Today, we are going to explore text generation with GPT-style
+We are going to explore text generation with GPT-style
 Transformers. This notebook loosely follows Chapter 5 of the Natural
 Language Processing With Transformers book, and its associated
 notebook. This notebook introduces you to some concepts related to
 generating text, and features two exercises:
 
-The first exercise of this seminar focuses on hyperparameters for text
+* The first exercise of this seminar focuses on hyperparameters for text
 generation (in particular, temperature).
 
-The second exercise is about testing the capacities of GPT-2, the
+* The second exercise is about testing the capacities of GPT-2, the
 predecessor of GPT-3 and 4, in your native language.
 
-We are going to use the gpt2 model on Hugging Face. If your runtime
+We are going to use the [GPT2 model on Hugging
+Face](https://huggingface.co/openai-community/gpt2). If your runtime
 engine allows it, you may also try the larger models GPT-Medium,
 GPT-Large, or GPT-XL. Performance quality tends to go up with larger
 models.
@@ -107,7 +111,8 @@ different topics covered in {ref}`lecture4`:
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1teoyckS5ZTbGZqHSCxrjyQL9gXgG3KAo?usp=sharing)
 
-In this Notebook we exemplify how to use Transformers for NLP tasks such as multi-lingual named-entity recognition,
+In this Notebook we exemplify how to use Transformers for NLP tasks
+such as multi-lingual named-entity recognition,
 
 (notebook6)=
 ## Notebook 6: Efficient LLM Inference

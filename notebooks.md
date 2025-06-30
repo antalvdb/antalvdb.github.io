@@ -124,6 +124,7 @@ In this Notebook we exemplify how to use Transformers for NLP tasks such as mult
 
 In this notebook we exemplify two efficient inference approaches: int8 quantization and speculative decoding, as discussed in {ref}`lecture6`.
 
+(notebook7)=
 ## Notebook 7: Reasoning with LLMs
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1Mp6Ehq8HxVx_bCRUEMa9c6Fk15oyVUxk?usp=sharing)

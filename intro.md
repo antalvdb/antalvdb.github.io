@@ -43,18 +43,13 @@ outside settings were created in
 [Midjourney](https://www.midjourney.com/home), with prompts that
 always included "1950s science fiction book cover style".
 
-The materials on this website are [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
-
 ```{image} images/cc-by.png
 :alt: cc-by
 :class: bg-white mb-1
 :width: 150px
 :align: left
 ```
-
-<br>
----
-<br>
+The materials on this website are [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
 
 ```{tableofcontents}
 ```

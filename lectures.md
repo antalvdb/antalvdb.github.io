@@ -80,7 +80,25 @@ by propagation of information in the internal graph of the Transformer
 architecture. In this lecture we talk about both these types of
 implicit and explicit reasoning.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS34Qm_ZF0nNnB7FvT5ki2PRImW6i1vuHqN-q6X8DILVZMgSVoeCWYgqpCGAO2TZXd3fsfWtmdiSjdV/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe
+src="https://docs.google.com/presentation/d/e/2PACX-1vS34Qm_ZF0nNnB7FvT5ki2PRImW6i1vuHqN-q6X8DILVZMgSVoeCWYgqpCGAO2TZXd3fsfWtmdiSjdV/pubembed?start=false&loop=false&delayms=60000"
+frameborder="0" width="780" height="484" allowfullscreen="true"
+mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+(lectureguest)=
+## Guest Lectures
+
+In April 2025, [Fabian Ferrari](https://www.fabianlferrari.com/) gave
+a lecture on the *governance of Transformers*, introducing a
+thought-provoking contrast between the *relentless computing* of
+commercial AI, versus a *conditional computing* practice that would
+allow governments to stimulate the development of AI conditioned on
+the return of public value.
+
+<iframe
+src="https://docs.google.com/presentation/d/e/2PACX-1vS743TK5C54h9Ho0r0BtzocTl1B1emaYzIZMm75iOEA7puA3_UXbE8WljTskByLPZ61XIPrV3BhEXb3/pubembed?start=false&loop=false&delayms=30000"
+frameborder="0" width="780" height="484" allowfullscreen="true"
+mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lecturemisc)=
 ## The Mixed Bag Lecture

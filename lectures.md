@@ -88,12 +88,12 @@ mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 (lectureguest)=
 ## Guest Lectures
 
-In April 2025, [Fabian Ferrari](https://www.fabianlferrari.com/) gave
-a lecture on the *governance of Transformers*, introducing a
-thought-provoking contrast between the *relentless computing* of
-commercial AI, versus a *conditional computing* practice that would
-allow governments to stimulate the development of AI conditioned on
-the return of public value.
+In April 2025, [Fabian Ferrari](https://www.fabianlferrari.com/)
+(Utrecht University) gave a lecture on the *governance of
+Transformers*, introducing a thought-provoking contrast between the
+*relentless computing* of commercial AI, versus a *conditional
+computing* practice that would allow governments to stimulate the
+development of AI conditioned on the return of public value.
 
 <iframe
 src="https://docs.google.com/presentation/d/e/2PACX-1vS743TK5C54h9Ho0r0BtzocTl1B1emaYzIZMm75iOEA7puA3_UXbE8WljTskByLPZ61XIPrV3BhEXb3/pubembed?start=false&loop=false&delayms=30000"
@@ -103,8 +103,8 @@ mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 (lecturemisc)=
 ## The Mixed Bag Lecture
 
-There are so many more interesting topics to cover that we cannot fit
-in a single teaching block. In this lecture we scoop up some
+There are so many more interesting topics to cover that are impossible
+to fit in a single teaching block. In this lecture we scoop up some
 miscellaneous and related topics such as Mixtures of Experts,
 watermarking and fingerprinting, the predictive brain in cognitive
 neuroscience, [TESCREAL](https://en.wikipedia.org/wiki/TESCREAL).

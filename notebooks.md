@@ -14,14 +14,8 @@ that harks back to the first wave of neural network research
 {cite}`mcculloch43a,rosenblatt1958,minsky1969`, as well as the second
 wave {cite}`rumelhart86,Elman1990`.
 
-Although we will focus on Transformers in this course, in this seminar
-notebook we will cover some wider basics of [Hugging
-Face](https://https://huggingface.co/) (🤗), the platform for
-maintaining, downloading and running Transformer models and related
-architectures and tools.
-
-In this notebook and some of the following seminar notebooks we
-follow, broadly, the book [Natural Language Processing with
+In some of the following notebooks we follow, broadly, the book
+[Natural Language Processing with
 Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/),
 by 🤗 staff members Lewis Tunstall, Leandro von Werra, and Thomas
 Wolf. See the [full notebook
@@ -33,14 +27,14 @@ this book.
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1MxJucIR3UL9YbGiTmkD6ZMwJeL8dM3Ie?usp=sharing)
 
-In the lecture we talk a lot about different types of
-transformer-based models. But before we dive in, we wanted to take
-some time to look at one particular type of models in more detail:
-models trained for text generation. These are the models that became
-most prominent recently, because they lie at the core of all the
-amazing and popular large language models that have been taking the
-world by storm in the last couple of years (think
-[ChatGPT](https://chatgpt.com/), [Claude](https://claude.ai/),
+In {ref}`lecture1` we talk about different types of transformer-based
+models. But before we dive in, we wanted to take some time to look at
+one particular type of models in more detail: models trained for text
+generation. These are the models that became most prominent recently,
+because they lie at the core of all the amazing and popular large
+language models that have been taking the world by storm in the last
+couple of years (think [ChatGPT](https://chatgpt.com/),
+[Claude](https://claude.ai/),
 [LLaMa](https://www.llama.com/models/llama-4/),
 [DeepSeek](https://www.deepseek.com/en) etc.). Later, we will talk in
 some detail about how these modern interactive models relate to the
@@ -59,7 +53,7 @@ generation (in particular, temperature).
 * The second exercise is about testing the capacities of GPT-2, the
 predecessor of GPT-3 and 4, in your native language.
 
-We are going to use the [GPT2 model on Hugging
+We are using the [GPT2 model on Hugging
 Face](https://huggingface.co/openai-community/gpt2). If your runtime
 engine allows it, you may also try the larger models GPT-Medium,
 GPT-Large, or GPT-XL. Performance quality tends to go up with larger

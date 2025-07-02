@@ -86,9 +86,22 @@ frameborder="0" width="780" height="484" allowfullscreen="true"
 mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lectureguest)=
-## Guest Lectures
+## Guest Lectures (2025)
 
-In April 2025, [Fabian Ferrari](https://www.fabianlferrari.com/)
+[Lukas Edman](https://leukas.github.io/cv/) (TU Munich) talked about
+tokenization, the essential first step in the training process:
+inducing a limited token vocabulary consisting of words, subwords
+and/or characters, and then tokenizing the raw textual training
+material. Lukas covers BPE for token vocabulary induction and spends
+time asking the question what could be the benefits of the most
+extreme tokenizer of all: the character or byte-level tokenizer.
+
+<iframe
+src="https://docs.google.com/presentation/d/e/2PACX-1vQ1BMBiQQIGjgr4s1Qsxj7PbITO2WxMcaNNLrb8zx8Tvt6H1rFr3QB-x_bjc7P7NxvmUbRdU-YvZ_kN/pubembed?start=false&loop=false&delayms=60000"
+frameborder="0" width="780" height="484" allowfullscreen="true"
+mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+[Fabian Ferrari](https://www.fabianlferrari.com/)
 (Utrecht University) gave a lecture on the *governance of
 Transformers*, introducing a thought-provoking contrast between the
 *relentless computing* of commercial AI, versus a *conditional

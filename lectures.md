@@ -90,11 +90,13 @@ mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [Lukas Edman](https://leukas.github.io/cv/) (TU Munich) talked about
 tokenization, the essential first step in the training process:
-inducing a limited token vocabulary consisting of words, subwords
-and/or characters, and then tokenizing the raw textual training
-material. Lukas covers BPE for token vocabulary induction and spends
-time asking the question what could be the benefits of the most
-extreme tokenizer of all: the character or byte-level tokenizer.
+inducing, from training text, a limited token vocabulary consisting of
+words, subwords and/or characters, and then tokenizing the raw textual
+training material according to this vocabulary, of which the
+dimensions are a major factor in neural LLMs. Lukas covers BPE for
+token vocabulary induction and spends time asking the question what
+could be the benefits of the most extreme tokenizer of all: the
+character or byte-level tokenizer.
 
 <iframe
 src="https://docs.google.com/presentation/d/e/2PACX-1vQ1BMBiQQIGjgr4s1Qsxj7PbITO2WxMcaNNLrb8zx8Tvt6H1rFr3QB-x_bjc7P7NxvmUbRdU-YvZ_kN/pubembed?start=false&loop=false&delayms=60000"

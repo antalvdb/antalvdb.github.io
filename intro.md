@@ -29,8 +29,13 @@ the 2025 issue.
 The content was created by [Antal van den
 Bosch](https://antalvandenbosch.nl/), [Lisa
 Bylinina](https://bylinina.github.io/), Yingjin Song, and [Yupei
-Du](https://yupei.nl/). We took an effort in properly quoting and
-crediting content of others; please notify [Antal van den
+Du](https://yupei.nl/). Guest lectures were given by [Lukas
+Edman](https://leukas.github.io/cv/) and [Fabian
+Ferrari](https://www.fabianlferrari.com/). [Tijmen
+Baarda](https://www.uu.nl/medewerkers/TCBaarda) and [Arjan
+Mossel](https://www.uu.nl/medewerkers/AMossel) were teaching
+assistants. We took an effort in properly quoting and crediting
+content of others; please notify [Antal van den
 Bosch](mailto:a.p.j.vandenbosch@uu.nl) in case the current material
 needs a correction or a credit.
 

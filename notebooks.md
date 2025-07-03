@@ -47,7 +47,7 @@ Language Processing With Transformers book, and its associated
 notebook. This notebook introduces you to some concepts related to
 generating text, and features two exercises:
 
-* The first exercise of this seminar focuses on hyperparameters for text
+* The first exercise focuses on hyperparameters for text
 generation (in particular, temperature).
 
 * The second exercise is about testing the capacities of GPT-2, the
@@ -64,14 +64,15 @@ models.
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1sb_S_oAQWvU-hlXcTqCtzaSWFsH0q-bw?usp=sharing)
 
-The notebook for this seminar consists of two parts:
+This notebook consists of two parts:
 
-* PART I: Writing up a transformer encoder, in which we implement a
-  transformer encoder in PyTorch. Note that we will not train it. In
-  this implementation, we pretty closely follow Chapter 3 of the
-  textbook.
+* PART I: Implement a full transformer encoder in PyTorch. Note that
+  we will not train it. In this implementation, we pretty closely
+  follow Chapter 3 of the [Natural Language Processing with
+  Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
+  book.
 
-* PART II: Visualizing attention, in which we use the
+* PART II: Visualizing attention, in which we use the 
   [bertviz](https://github.com/jessevig/bertviz) library to visualize
   internals of
   [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased),
@@ -83,7 +84,8 @@ The notebook for this seminar consists of two parts:
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1ve_gtqXIyN1W2KOwP5SRb7LhcB-cLEtH?usp=sharing)
 
 This notebook consists of two parts that have to do with the two
-different topics covered in {ref}`lecture4`:
+different topics covered in {ref}`lecture4` and Lukas Edman's
+{ref}`lectureguest` on tokenization:
 
 * PART I: **Tokenization and character-level information**. In
   {ref}`lecture4` we discussed standard practices of text tokenization
@@ -92,13 +94,13 @@ different topics covered in {ref}`lecture4`:
   introduced. Additionally, we discussed character-level tokenization
   as an alternative to subword tokenization algorithms.
 
-* PART II: **Tools and agents**. During the lecture, we mentioned that
-  recently, language models have been equipped with the use of tools;
-  -- LM output is used to trigger external instruments, such as web
-  search, calculator etc. The output of running these external
-  instruments then can be fed back to the LM and conditions its text
-  generation. We will take a look at agents and tools with the
-  [smolagents](https://huggingface.co/docs/smolagents/en/index) library.
+* PART II: **Tools and agents**. LLM output can be used to trigger
+  external instruments, such as web search, calculator etc. The output
+  of running these external instruments then can be fed back to the
+  LLM and may further condition its text generation. We will play with
+  agents and tools with the
+  [smolagents](https://huggingface.co/docs/smolagents/en/index)
+  library.
 
 (notebook5)=
 ## Notebook 5: Transformers for NLP
@@ -106,7 +108,7 @@ different topics covered in {ref}`lecture4`:
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1teoyckS5ZTbGZqHSCxrjyQL9gXgG3KAo?usp=sharing)
 
 In this Notebook we exemplify how to use Transformers for NLP tasks
-such as multi-lingual named-entity recognition,
+such as multi-lingual named-entity recognition.
 
 (notebook6)=
 ## Notebook 6: Efficient LLM Inference

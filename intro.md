@@ -30,8 +30,9 @@ The content was created by [Antal van den
 Bosch](https://antalvandenbosch.nl/), [Lisa
 Bylinina](https://bylinina.github.io/), Yingjin Song, and [Yupei
 Du](https://yupei.nl/). Guest lectures were given by [Lukas
-Edman](https://leukas.github.io/cv/) and [Fabian
-Ferrari](https://www.fabianlferrari.com/). [Tijmen
+Edman](https://leukas.github.io/cv/), [Fabian
+Ferrari](https://www.fabianlferrari.com/), and Jakub Zavrel ([Zeta
+Alpha](https://www.zeta-alpha.com/)). [Tijmen
 Baarda](https://www.uu.nl/medewerkers/TCBaarda) and [Arjan
 Mossel](https://www.uu.nl/medewerkers/AMossel) were teaching
 assistants. We took an effort in properly quoting and crediting

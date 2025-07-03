@@ -15,11 +15,11 @@ LSTMs {cite}`10.1162/neco.1997.9.8.1735` and the Transformer
 (lecture2)=
 ## Lecture 2: Transformers: Key concepts and building blocks
 
-The Transformer is the current best solution to predicting the next
-word, with autoregression and an impressive method to keep track of
-all things that matter in the input seen so far, *attention*. This
-lecture introduces the key concepts and building blocks of the
-Transformer architecture.
+The Transformer {cite}`10.5555/3295222.3295349` is the current best
+solution to predicting the next word, with autoregression and an
+impressive method to keep track of all things that matter in the input
+seen so far, *attention*. This lecture introduces the key concepts and
+building blocks of the Transformer architecture.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHY0smV_pf2zUBAn-cSDNTiY_CxzdNqQz1svPLcUbA3Muh-GFATFy280LrgCu5lu6dAKRCMjmMUJbA/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -28,7 +28,7 @@ Transformer architecture.
 
 After a short recap of the Transformer architecture, we dive into a
 select number of unique aspects of training Transformers: in-context
-learning, post-training.
+learning and post-training.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrHB_THbDDvlR7smOM6TzrblZZ4BvEnS4TUv-0GRiMUoEDG4HmhbSTBz1DQwWeXIsc_28wmxMvm-JB/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -50,7 +50,8 @@ like the tests we took at school or in college.
 Data is a key ingredient to training and fine-tuning
 Transformers. What do we know from language data, and what does Zipf's
 law predict? If commercial LLMs are trained on trillions of tokens,
-where does all that data come from? What type of biases occur in them?
+where does all that data come from? What type of biases occur in them,
+can we detect and mitigate them?
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnhPPkLkRBv4eG5etjYcJwOyfftEN1nkO5T-wr_c5Kpc17bTx_FGQMSskPgxIib1b2qsT3T9MrhGR9/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

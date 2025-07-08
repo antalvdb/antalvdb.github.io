@@ -14,7 +14,7 @@ This website accompanies the [Utrecht University](https://www.uu.nl/en) [Applied
 > as the number one working horse in AI. It changed the field of
 > natural language processing (the field of this course's lecturers)
 > overnight, and its revolutionary industrial impact might be huge and
-> lasting. Yet, the working horse at its core can only do only one
+> lasting. Yet, the working horse at its core can only do one
 > thing: *predict the next word*. How can a next-word predictor show
 > good aptitude at school tests? How is it able to reason? What are
 > the problematic aspects of this technology, and what are the current

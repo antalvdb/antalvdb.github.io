@@ -10,7 +10,7 @@ recurrent neural nets {cite}`Elman1990` to GRUs {cite}`Cho2014a`,
 LSTMs {cite}`10.1162/neco.1997.9.8.1735` and the Transformer
 {cite}`10.5555/3295222.3295349`.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsDs8NCjltv9oMxhV61KXKRFUyJ6hvq9gJ6gwcEwoIWX1QHM6l5HUvO636qyG3XHh9L2wBixcMqNP6/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxT-bCUZgsRhxZnUugaesEahWdAMPLuMiCQ-brO-WZJo4CGEW0urzRs3Sv_PQOADDN0-u6Y2YfzW7-/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lecture2)=
 ## Lecture 2: Transformers: Key concepts and building blocks

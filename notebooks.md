@@ -1,9 +1,9 @@
 # Notebooks
 
 (notebook1)=
-## Notebook 1: Basics; and how to fine-tune a text classifier.
+## Notebook 1: Transformer-based NLP tools; and how to fine-tune a text classifier.
 
-[Run this Notebook on Colab](https://colab.research.google.com/drive/1aAvxhsVmM2-OoDn6Fs1gSY3P_xbNmDdT?usp=sharing).
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1CHKY_lkitd3NNE2hsqopNR2bzyEX8Hc_?usp=sharing).
 
 This course introduces you to Transformers, a class of deep learning
 neural networks based on the Transformer architecture. Although this

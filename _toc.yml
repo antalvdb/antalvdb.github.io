@@ -1,7 +1,12 @@
 ---
 format: jb-book
 root: intro
+parts:
+  - caption: Lectures
+    chapters:
+    - file: lectures
+  - caption: Notebooks
+    chapters:
+    - file: notebooks
 chapters:
-  - file: lectures
-  - file: notebooks
   - file: references

@@ -10,6 +10,9 @@ sphinx:
   config:
     html_theme_options:
       repository_provider: github
+      show_toc_level: 2
+    html_sidebars:
+      "**": ["navbar-logo.html", "search-field.html", "sbt-sidebar-nav.html"]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

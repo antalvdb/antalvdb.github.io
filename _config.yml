@@ -10,17 +10,11 @@ sphinx:
   config:
     html_theme_options:
       repository_provider: github
-      show_toc_level: 2
-    html_sidebars:
-      "**": ["navbar-logo.html", "search-field.html", "sbt-sidebar-nav.html"]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: force
-
-# Only build files that are in the table of contents
-only_build_toc_files: true
 
 # Define the name of the latex output file for PDF builds
 latex:

@@ -3,5 +3,8 @@ format: jb-book
 root: intro
 chapters:
   - file: lectures
+    title: Lectures
   - file: notebooks
+    title: Notebooks
   - file: references
+    title: References

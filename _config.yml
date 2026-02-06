@@ -16,6 +16,15 @@ sphinx:
 execute:
   execute_notebooks: force
 
+# Exclude template/example files
+exclude_patterns:
+  - _build
+  - Thumbs.db
+  - .DS_Store
+  - "**.ipynb_checkpoints"
+  - markdown.md
+  - markdown-notebooks.md
+
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:

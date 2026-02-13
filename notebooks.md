@@ -23,7 +23,49 @@ collection](https://github.com/nlp-with-transformers/notebooks) for
 this book.
 
 (notebook2)=
-## Notebook 2: Text generation with GPT
+## Notebook 2: The Transformer Anatomy Lesson: miniGPT
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1eq0wRwbsqA7SbQDBQKekh2WfjihQrPxC?usp=sharing)
+
+This notebook accompanies lecture 2. In this notebook you implement and train a full transformer encoder, miniGPT, in PyTorch. Running and understanding the notebook closely helps to understand the inner workings of a transformer, which you typically do not see when working with the high-level `transformer` library from Hugging Face.
+
+(notebook3)=
+## Notebook 3: The Transformer Anatomy Lesson: Visualizing attention
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1yUNq96IONt231odvk_OfpgHde_r-wjmn?usp=sharing)
+
+This notebook also accompanies lecture 2. In this notebook we use the
+  [bertviz](https://github.com/jessevig/bertviz) library to visualize
+  internals of
+  [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased),
+  a pretrained BERT model.
+
+(notebook4)=
+## Notebook 4: Tokenizers and Tools
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1ve_gtqXIyN1W2KOwP5SRb7LhcB-cLEtH?usp=sharing)
+
+This notebook consists of two parts that have to do with the two
+different topics covered in {ref}`lecture3` and Lukas Edman's
+{ref}`lectureguest` on tokenization:
+
+* PART I: **Tokenization and character-level information**. In
+  {ref}`lecture4` we discussed standard practices of text tokenization
+  for recent transformer language models. In particular, the most
+  common subword tokenization algorithm, BPE, was
+  introduced. Additionally, we discussed character-level tokenization
+  as an alternative to subword tokenization algorithms.
+
+* PART II: **Tools and agents**. LLM output can be used to trigger
+  external instruments, such as web search, calculator etc. The output
+  of running these external instruments then can be fed back to the
+  LLM and may further condition its text generation. We will play with
+  agents and tools with the
+  [smolagents](https://huggingface.co/docs/smolagents/en/index)
+  library.
+
+(notebook5)=
+## Notebook 5: Text generation with GPT
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1MxJucIR3UL9YbGiTmkD6ZMwJeL8dM3Ie?usp=sharing)
 
@@ -59,66 +101,23 @@ engine allows it, you may also try the larger models GPT-Medium,
 GPT-Large, or GPT-XL. Performance quality tends to go up with larger
 models.
 
-(notebook3)=
-## Notebook 3: The Transformer Anatomy Lesson
-
-[Run this Notebook on Colab](https://colab.research.google.com/drive/1sb_S_oAQWvU-hlXcTqCtzaSWFsH0q-bw?usp=sharing)
-
-This notebook consists of two parts:
-
-* PART I: Implement a full transformer encoder in PyTorch. Note that
-  we will not train it. In this implementation, we pretty closely
-  follow Chapter 3 of the [Natural Language Processing with
-  Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
-  book.
-
-* PART II: Visualizing attention, in which we use the 
-  [bertviz](https://github.com/jessevig/bertviz) library to visualize
-  internals of
-  [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased),
-  a pretrained BERT model.
-
-(notebook4)=
-## Notebook 4: Tokenizers and Tools
-
-[Run this Notebook on Colab](https://colab.research.google.com/drive/1ve_gtqXIyN1W2KOwP5SRb7LhcB-cLEtH?usp=sharing)
-
-This notebook consists of two parts that have to do with the two
-different topics covered in {ref}`lecture4` and Lukas Edman's
-{ref}`lectureguest` on tokenization:
-
-* PART I: **Tokenization and character-level information**. In
-  {ref}`lecture4` we discussed standard practices of text tokenization
-  for recent transformer language models. In particular, the most
-  common subword tokenization algorithm, BPE, was
-  introduced. Additionally, we discussed character-level tokenization
-  as an alternative to subword tokenization algorithms.
-
-* PART II: **Tools and agents**. LLM output can be used to trigger
-  external instruments, such as web search, calculator etc. The output
-  of running these external instruments then can be fed back to the
-  LLM and may further condition its text generation. We will play with
-  agents and tools with the
-  [smolagents](https://huggingface.co/docs/smolagents/en/index)
-  library.
-
-(notebook5)=
-## Notebook 5: Transformers for NLP
+(notebook6)=
+## Notebook 6: Transformers for NLP
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1teoyckS5ZTbGZqHSCxrjyQL9gXgG3KAo?usp=sharing)
 
 In this Notebook we exemplify how to use Transformers for NLP tasks
 such as multi-lingual named-entity recognition.
 
-(notebook6)=
-## Notebook 6: Efficient LLM Inference
+(notebook7)=
+## Notebook 7: Efficient LLM Inference
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1-te53ydLjnP-YHUuwthO0G8Z44bB1yq6?usp=sharing)
 
 In this notebook we exemplify two efficient inference approaches: int8 quantization and speculative decoding, as discussed in {ref}`lecture6`.
 
-(notebook7)=
-## Notebook 7: Reasoning with LLMs
+(notebook8)=
+## Notebook 8: Reasoning with LLMs
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1Mp6Ehq8HxVx_bCRUEMa9c6Fk15oyVUxk?usp=sharing)
 

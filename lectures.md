@@ -21,7 +21,7 @@ impressive method to keep track of all things that matter in the input
 seen so far, *attention*. This lecture introduces the key concepts and
 building blocks of the Transformer architecture.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHY0smV_pf2zUBAn-cSDNTiY_CxzdNqQz1svPLcUbA3Muh-GFATFy280LrgCu5lu6dAKRCMjmMUJbA/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCTGAFcNirv9hwFCb5C6FEYiyswahd_v1tuLhbdghE9tiWZB3S-HfYFhAWKektJvJYKlMnjGD028Ag/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lecture3)=
 ## Lecture 3: Transformers recap, In-context learning, Post-training, Tools and agents

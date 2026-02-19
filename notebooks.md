@@ -46,10 +46,14 @@ This notebook also accompanies lecture 2. In this notebook we use the
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1Jo5gc7YKuhz-MWjZ3hIm5foS9vdc7p-l?usp=sharing)
 
 LLM output can be used to trigger external instruments, such as web
-search,calculator etc. The output of running these external
+search, a calculator, etc. The output of running these external
 instruments then can be fed back to the LLM and may further condition
 its text generation. We will play with agents and tools with the
 [smolagents](https://huggingface.co/docs/smolagents/en/index) library.
+
+In the second part of the notebook we explore instruction tuning:
+finetuning an LLM to be prepared to link instructions to the proper
+answer type, rather than just generating plausible text.
 
 (notebook5)=
 ## Notebook 5: Text generation with GPT

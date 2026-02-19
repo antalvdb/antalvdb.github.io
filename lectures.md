@@ -24,13 +24,15 @@ building blocks of the Transformer architecture.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCTGAFcNirv9hwFCb5C6FEYiyswahd_v1tuLhbdghE9tiWZB3S-HfYFhAWKektJvJYKlMnjGD028Ag/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lecture3)=
-## Lecture 3: Transformers recap, In-context learning, Post-training, Tools and agents
+## Lecture 3: Transformers recap, In-context learning, Post-training, Agents
 
-After a short recap of the Transformer architecture, we dive into a
-select number of unique aspects of training Transformers: in-context
-learning and post-training.
+After a short recap of the Transformer architecture, we dive into
+aspects of training Transformers beyond pre-training: in-context
+learning and post-training. We also talk about putting LLMs to work as
+agents. We conclude with two frequently-used Transformer features: the
+mixture-of-experts architecture and LoRA.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrHB_THbDDvlR7smOM6TzrblZZ4BvEnS4TUv-0GRiMUoEDG4HmhbSTBz1DQwWeXIsc_28wmxMvm-JB/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfTajMvhhw38ocjv3JpneVrzvmLnl0_1eyAIKShwiuiGJPxiYotCbSBfQ7JVAkly2IK712hXyTsEU4/pubembed?start=false&loop=false&delayms=30000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lecture4)=
 ## Lecture 4: Benchmarking LLMs

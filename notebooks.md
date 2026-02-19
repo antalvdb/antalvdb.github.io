@@ -41,28 +41,15 @@ This notebook also accompanies lecture 2. In this notebook we use the
   a pretrained BERT model.
 
 (notebook4)=
-## Notebook 4: Tokenizers and Tools
+## Notebook 4: Instruction tuning, Tools and Agents
 
-[Run this Notebook on Colab](https://colab.research.google.com/drive/1ve_gtqXIyN1W2KOwP5SRb7LhcB-cLEtH?usp=sharing)
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1Jo5gc7YKuhz-MWjZ3hIm5foS9vdc7p-l?usp=sharing)
 
-This notebook consists of two parts that have to do with the two
-different topics covered in {ref}`lecture3` and Lukas Edman's
-{ref}`lectureguest` on tokenization:
-
-* PART I: **Tokenization and character-level information**. In
-  {ref}`lecture4` we discussed standard practices of text tokenization
-  for recent transformer language models. In particular, the most
-  common subword tokenization algorithm, BPE, was
-  introduced. Additionally, we discussed character-level tokenization
-  as an alternative to subword tokenization algorithms.
-
-* PART II: **Tools and agents**. LLM output can be used to trigger
-  external instruments, such as web search, calculator etc. The output
-  of running these external instruments then can be fed back to the
-  LLM and may further condition its text generation. We will play with
-  agents and tools with the
-  [smolagents](https://huggingface.co/docs/smolagents/en/index)
-  library.
+LLM output can be used to trigger external instruments, such as web
+search,calculator etc. The output of running these external
+instruments then can be fed back to the LLM and may further condition
+its text generation. We will play with agents and tools with the
+[smolagents](https://huggingface.co/docs/smolagents/en/index) library.
 
 (notebook5)=
 ## Notebook 5: Text generation with GPT

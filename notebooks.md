@@ -27,7 +27,7 @@ this book.
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1eq0wRwbsqA7SbQDBQKekh2WfjihQrPxC?usp=sharing)
 
-This notebook accompanies lecture 2. In this notebook you implement
+This notebook accompanies {ref}`lecture 2`. In this notebook you implement
 and train a full transformer encoder, miniGPT, in PyTorch. Running and
 understanding the notebook closely helps to understand the inner
 workings of a transformer, which you typically do not see when working
@@ -38,7 +38,7 @@ with the high-level `transformer` library from Hugging Face.
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1yUNq96IONt231odvk_OfpgHde_r-wjmn?usp=sharing)
 
-This notebook also accompanies lecture 2. In this notebook we use the
+This notebook also accompanies {ref}`lecture 2`. In this notebook we use the
   [bertviz](https://github.com/jessevig/bertviz) library to visualize
   internals of
   [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased),
@@ -48,6 +48,8 @@ This notebook also accompanies lecture 2. In this notebook we use the
 ## Notebook 4: Instruction tuning, Tools and Agents
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1Jo5gc7YKuhz-MWjZ3hIm5foS9vdc7p-l?usp=sharing)
+
+This notebook accompanies {ref}`lecture3`.
 
 LLM output can be used to trigger external instruments, such as web
 search, a calculator, etc. The output of running these external

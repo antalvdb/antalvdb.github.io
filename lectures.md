@@ -41,14 +41,14 @@ mixture-of-experts architecture and LoRA.
 (lecture4)=
 ## Lecture 4: Efficient LLMs
 
-This lecture is accompanied by {ref}`notebook6`.
+This lecture is accompanied by {ref}`notebook5` and {ref}`notebook6`.
 
 LLM efficiency is a big issue; the size wars of the commercial LLM
 providers, predictable from the scaling laws of Transformers, are
 softened by smart countermeasures that optimize aspects of the LLM
 architecture and processes. Not being able to ever be complete, this
 lecture covers a mixture of methods such as flash attention, PEFT, KV
-caching, and speculative decoding.
+caching, distillation, and speculative decoding.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT19vXigOGa_7uajcubu3qBgWuj1Trr4YJ8m09Vssrs6-Q0F5hrAKReqWv6kc7Z5QZFKCPUGlPW164O/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

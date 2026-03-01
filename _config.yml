@@ -8,6 +8,7 @@ logo: images/antalb_looking_over_the_shoulder_of_a_transformer_robot_reading_84c
 sphinx:
   recursive_update: true
   config:
+    copyright: "2026"
     html_theme_options:
       repository_provider: github
 

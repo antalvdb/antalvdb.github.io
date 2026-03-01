@@ -15,6 +15,8 @@ LSTMs {cite}`10.1162/neco.1997.9.8.1735` and the Transformer
 (lecture2)=
 ## Lecture 2: Transformers: Key concepts and building blocks
 
+This lecture is accompanied by {ref}`notebook2`.
+
 The Transformer {cite}`10.5555/3295222.3295349` is the current best
 solution to predicting the next word, with autoregression and an
 impressive method to keep track of all things that matter in the input
@@ -26,6 +28,8 @@ building blocks of the Transformer architecture.
 (lecture3)=
 ## Lecture 3: Transformers recap, In-context learning, Post-training, Agents
 
+This lecture is accompanied by {ref}`notebook3` and {ref}`notebook4`.
+
 After a short recap of the Transformer architecture, we dive into
 aspects of training Transformers beyond pre-training: in-context
 learning and post-training. We also talk about putting LLMs to work as
@@ -35,7 +39,21 @@ mixture-of-experts architecture and LoRA.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfTajMvhhw38ocjv3JpneVrzvmLnl0_1eyAIKShwiuiGJPxiYotCbSBfQ7JVAkly2IK712hXyTsEU4/pubembed?start=false&loop=false&delayms=30000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lecture4)=
-## Lecture 4: Benchmarking LLMs
+## Lecture 4: Efficient LLMs
+
+This lecture is accompanied by {ref}`notebook6`.
+
+LLM efficiency is a big issue; the size wars of the commercial LLM
+providers, predictable from the scaling laws of Transformers, are
+softened by smart countermeasures that optimize aspects of the LLM
+architecture and processes. Not being able to ever be complete, this
+lecture covers a mixture of methods such as flash attention, PEFT, KV
+caching, and speculative decoding.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT19vXigOGa_7uajcubu3qBgWuj1Trr4YJ8m09Vssrs6-Q0F5hrAKReqWv6kc7Z5QZFKCPUGlPW164O/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+(lecture5)=
+## Lecture 5: Benchmarking LLMs
 
 Evaluating LLMs is not a simple matter. Many evaluation metrics and
 benchmarks that emerged from the field of natural language processing
@@ -46,8 +64,8 @@ like the tests we took at school or in college.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVB7NL9254N3hemwZy3o6pHjatOKY_i1fjPl1_e4WTndE2mPbz-5gpJkc8g5F1LXLs3YeEN56Vdpyk/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-(lecture5)=
-## Lecture 5: Data, bias, alignment
+(lecture6)=
+## Lecture 6: Data, bias, alignment
 
 Data is a key ingredient to training and fine-tuning
 Transformers. What do we know from language data, and what does Zipf's
@@ -56,20 +74,6 @@ where does all that data come from? What type of biases occur in them,
 can we detect and mitigate them?
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnhPPkLkRBv4eG5etjYcJwOyfftEN1nkO5T-wr_c5Kpc17bTx_FGQMSskPgxIib1b2qsT3T9MrhGR9/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-(lecture6)=
-## Lecture 6: Efficient LLMs
-
-This lecture is accompanied by {ref}`notebook6`.
-
-LLM efficiency is a big issue; the size wars of the commercial LLM
-providers are fortunately complemented with smart countermeasures that
-optimize aspects of the LLM architecture and processes. Not being able
-to ever be complete, this lecture covers quantization, speculative
-decoding, the Chinchilla scaling law, and parameter-efficient
-finetuning (PEFT).
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgWdDJiLWw7UCszgLmf0Gyewj7JSDYwPH-IQM5OiwZvkVF_aIHfHRJ4vVJVE2Gam_6_UGIxYA0-g02/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lecture7)=
 ## Lecture 7: Reasoning in LLMs

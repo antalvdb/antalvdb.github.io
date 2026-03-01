@@ -27,7 +27,11 @@ this book.
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1eq0wRwbsqA7SbQDBQKekh2WfjihQrPxC?usp=sharing)
 
-This notebook accompanies lecture 2. In this notebook you implement and train a full transformer encoder, miniGPT, in PyTorch. Running and understanding the notebook closely helps to understand the inner workings of a transformer, which you typically do not see when working with the high-level `transformer` library from Hugging Face.
+This notebook accompanies lecture 2. In this notebook you implement
+and train a full transformer encoder, miniGPT, in PyTorch. Running and
+understanding the notebook closely helps to understand the inner
+workings of a transformer, which you typically do not see when working
+with the high-level `transformer` library from Hugging Face.
 
 (notebook3)=
 ## Notebook 3: The Transformer Anatomy Lesson: Visualizing attention
@@ -56,7 +60,39 @@ finetuning an LLM to be prepared to link instructions to the proper
 answer type, rather than just generating plausible text.
 
 (notebook5)=
-## Notebook 5: Text generation with GPT
+## Notebook 5: Efficient LLM Inference
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1G_jiM1tBOw4Ivksb6nEp6EGPaw_83o1p)
+
+In this notebook we exemplify two efficient inference approaches: int8
+quantization and speculative decoding. This is one of two notebooks
+complementing {ref}`lecture4`.
+
+(notebook6)=
+## Notebook 6: Fine tuning of Transformers models using PEFT (Parameter Efficient Fine-Tuning) techniques
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1GPxsvRNLFPgp_AEpABrkukLZZXV3Fm4C)
+
+This notebook, adapted from this [Hugging Face
+blog](https://huggingface.co/blog/samuellimabraz/peft-methods) and
+complementing {ref}`lecture4`, the task of finetuning a
+sequence-to-sequence Transformer on dialogue summarization in the
+domain of customer service conversations on Twitter, forms the
+backdrop for a dive into parameter-efficient fine-tuning with LoRA and
+QLoRA.
+
+(notebook7)=
+## Notebook 7: Reasoning with LLMs
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1Mp6Ehq8HxVx_bCRUEMa9c6Fk15oyVUxk?usp=sharing)
+
+Accompanying {ref}`lecture7`, this Notebook walks you through
+inference using Qwen-2.5-1.5B and DeepSeek-R1-Distill-Qwen-1.5B. You
+are introduced in comparing direct versus chain-of-thought reasoning,
+with math problem solving as the test domain.
+
+(notebook8)=
+## Notebook 8: Text generation with GPT
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1MxJucIR3UL9YbGiTmkD6ZMwJeL8dM3Ie?usp=sharing)
 
@@ -92,29 +128,7 @@ engine allows it, you may also try the larger models GPT-Medium,
 GPT-Large, or GPT-XL. Performance quality tends to go up with larger
 models.
 
-(notebook6)=
-## Notebook 6: Transformers for NLP
 
-[Run this Notebook on Colab](https://colab.research.google.com/drive/1teoyckS5ZTbGZqHSCxrjyQL9gXgG3KAo?usp=sharing)
 
-In this Notebook we exemplify how to use Transformers for NLP tasks
-such as multi-lingual named-entity recognition.
-
-(notebook7)=
-## Notebook 7: Efficient LLM Inference
-
-[Run this Notebook on Colab](https://colab.research.google.com/drive/1-te53ydLjnP-YHUuwthO0G8Z44bB1yq6?usp=sharing)
-
-In this notebook we exemplify two efficient inference approaches: int8 quantization and speculative decoding, as discussed in {ref}`lecture6`.
-
-(notebook8)=
-## Notebook 8: Reasoning with LLMs
-
-[Run this Notebook on Colab](https://colab.research.google.com/drive/1Mp6Ehq8HxVx_bCRUEMa9c6Fk15oyVUxk?usp=sharing)
-
-Accompanying {ref}`lecture7`, this Notebook walks you through
-inference using Qwen-2.5-1.5B and DeepSeek-R1-Distill-Qwen-1.5B. You
-are introduced in comparing direct versus chain-of-thought reasoning,
-with math problem solving as the test domain.
 
 

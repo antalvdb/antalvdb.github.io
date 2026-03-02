@@ -28,7 +28,8 @@ the 2025 issue.
 
 The content was created by [Antal van den
 Bosch](https://antalvandenbosch.nl/), [Lisa
-Bylinina](https://bylinina.github.io/), Yingjin Song, and [Yupei
+Bylinina](https://bylinina.github.io/), Yingjin Song, [Menan
+Velayuthan](https://vmenan.github.io/), and [Yupei
 Du](https://yupei.nl/). Guest lectures were given by [Lukas
 Edman](https://leukas.github.io/cv/), [Fabian
 Ferrari](https://www.fabianlferrari.com/), and Jakub Zavrel ([Zeta

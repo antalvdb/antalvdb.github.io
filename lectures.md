@@ -58,11 +58,11 @@ caching, distillation, and speculative decoding.
 Evaluating LLMs is not a simple matter. Many evaluation metrics and
 benchmarks that emerged from the field of natural language processing
 are still usable, but the capabilities of chatbots based on
-autoregressive encoder Transformers (so-called Generative AI) have
+autoregressive encoder Transformers have
 spawned an entirely new type of benchmark task that increasingly looks
 like the tests we took at school or in college.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVB7NL9254N3hemwZy3o6pHjatOKY_i1fjPl1_e4WTndE2mPbz-5gpJkc8g5F1LXLs3YeEN56Vdpyk/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTx50M8aMrWu8z1hSqoJZLgkwAG1R7wBEllRo8KhXIlEJ3EpxrpwuP7gwfngkPFUJ_E9CDfX7FVF59Y/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lecture6)=
 ## Lecture 6: Data, bias, alignment
@@ -71,9 +71,12 @@ Data is a key ingredient to training and fine-tuning
 Transformers. What do we know from language data, and what does Zipf's
 law predict? If commercial LLMs are trained on trillions of tokens,
 where does all that data come from? What type of biases occur in them,
-can we detect and mitigate them?
+can we detect and mitigate them? Chatbot developers typically *want*
+to mitigate bias because they want there models to be aligned with the
+values and expectations of users. How to align a chatbot - or, how to
+turn a next-token predictor into a helpful dialogue partner?
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnhPPkLkRBv4eG5etjYcJwOyfftEN1nkO5T-wr_c5Kpc17bTx_FGQMSskPgxIib1b2qsT3T9MrhGR9/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ32RvAo6yKyRuiE97qADMOB918EOd0ykkJ0yg---ZvlnDRQT4c8k2ssU355yEz9FjnP1ZID8SM4yAk/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lecture7)=
 ## Lecture 7: Reasoning in LLMs
@@ -87,10 +90,7 @@ by propagation of information in the internal graph of the Transformer
 architecture. In this lecture we talk about both these types of
 implicit and explicit reasoning.
 
-<iframe
-src="https://docs.google.com/presentation/d/e/2PACX-1vS34Qm_ZF0nNnB7FvT5ki2PRImW6i1vuHqN-q6X8DILVZMgSVoeCWYgqpCGAO2TZXd3fsfWtmdiSjdV/pubembed?start=false&loop=false&delayms=60000"
-frameborder="0" width="780" height="484" allowfullscreen="true"
-mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMKm8w_4mPGGRfG3SC8EaDRj0HZQjzCIFLX5Ahl5ymgV8lvpwe3RqkMQ2RpmGsGDpXQvsZE3ZxBBLJ/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lectureguest)=
 ## Guest Lectures (2025)

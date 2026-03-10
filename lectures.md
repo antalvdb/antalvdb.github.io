@@ -55,6 +55,8 @@ caching, distillation, and speculative decoding.
 (lecture5)=
 ## Lecture 5: Benchmarking LLMs
 
+This lecture is accompanied by {ref}`notebook8`.
+
 Evaluating LLMs is not a simple matter. Many evaluation metrics and
 benchmarks that emerged from the field of natural language processing
 are still usable, but the capabilities of chatbots based on

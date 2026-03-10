@@ -94,7 +94,20 @@ are introduced in comparing direct versus chain-of-thought reasoning,
 with math problem solving as the test domain.
 
 (notebook8)=
-## Notebook 8: Text generation with GPT
+## Notebook 8: Benchmarking LLMs
+
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1GMxTcUu6oBKM1FDB2ZE_88j3BKlMF6lF?usp=sharing)
+
+This notebook accompanies {ref}`lecture5`. In this Notebook we are
+going to benchmark pre-trained LLMs on standard benchmark sets on
+Hugging Face Datasets. We are going to work with the GLUE (General
+Language Understanding Evaluation) NLP benchmark set. The notebook's
+goal is to finetune an LLM on one of the GLUE Benchmark tasks and
+achieve a non-trivial performance compared to scores on the
+[GLUE Benchmark Leaderboard](https://gluebenchmark.com/leaderboard).
+
+(notebook9)=
+## Notebook 9: Text generation with GPT
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1MxJucIR3UL9YbGiTmkD6ZMwJeL8dM3Ie?usp=sharing)
 

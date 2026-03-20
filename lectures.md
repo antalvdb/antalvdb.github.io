@@ -95,7 +95,7 @@ implicit and explicit reasoning.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMKm8w_4mPGGRfG3SC8EaDRj0HZQjzCIFLX5Ahl5ymgV8lvpwe3RqkMQ2RpmGsGDpXQvsZE3ZxBBLJ/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 (lectureguest)=
-## Guest Lectures (2025)
+## Guest Lectures
 
 [Lukas Edman](https://leukas.github.io/cv/) (TU Munich) talked about
 tokenization, the essential first step in the training process:
@@ -113,16 +113,27 @@ frameborder="0" width="780" height="484" allowfullscreen="true"
 mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [Fabian Ferrari](https://www.fabianlferrari.com/)
-(Utrecht University) gave a lecture on the *governance of
+(Utrecht University) talks about the *governance of
 Transformers*, introducing a thought-provoking contrast between the
 *relentless computing* of commercial AI, versus a *conditional
 computing* practice that would allow governments to stimulate the
 development of AI conditioned on the return of public value.
 
-<iframe
-src="https://docs.google.com/presentation/d/e/2PACX-1vS743TK5C54h9Ho0r0BtzocTl1B1emaYzIZMm75iOEA7puA3_UXbE8WljTskByLPZ61XIPrV3BhEXb3/pubembed?start=false&loop=false&delayms=30000"
-frameborder="0" width="780" height="484" allowfullscreen="true"
-mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="docs/ferrari.pdf"
+   width="780" height="484">
+
+(lecturediff)= [Ruurd
+Kuiper](https://research.umcutrecht.nl/researchers/ruurd-kuiper/)
+introduces the topic of diffusion-based LLMs, an idea that deviates
+from the standard left-to-right autoregressive text generation
+framework of decoder Transformers. Instead, diffusion-based LLMs
+generate a full text, by starting with a block of fully masked text,
+and iteratively unmasking and generating sub-parts of the full text.
+
+This lecture is accompanied by {ref}`notebook10`.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT03k6-uZZxphOG0iX38bHM3fW7dSX6x_0-07yIKr2CmGbTK-5VFsDQPuUg36_UHOuNRYQ_ZDRqzDSQ/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 (lecturemisc)=
 ## The Mixed Bag Lecture
@@ -131,8 +142,7 @@ There are so many more interesting topics to cover that are impossible
 to fit in a single teaching block. In this lecture we scoop up some
 miscellaneous and related topics such as Mixtures of Experts,
 watermarking and fingerprinting, the predictive brain in cognitive
-neuroscience, [TESCREAL](https://en.wikipedia.org/wiki/TESCREAL).
-Which topics will we cover in next year's mixed bag lecture?
+neuroscience, and [TESCREAL](https://en.wikipedia.org/wiki/TESCREAL).
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeSn4TJXrX2lW9RUV87LwywfkczSmwKOsS6minER7YNS7XylMZCCOF1fFUzh97P37un4x1ggCEzxjj/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3KbJAKnz06R1xIy-j6WZpjq0DyeFfUfVbuPoohfNlqcm2ZlF7y9ojJLd3D75wduc3qmjU0hyCc9u6/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

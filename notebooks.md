@@ -120,13 +120,10 @@ language models that have been taking the world by storm in the last
 couple of years (think [ChatGPT](https://chatgpt.com/),
 [Claude](https://claude.ai/),
 [LLaMa](https://www.llama.com/models/llama-4/),
-[DeepSeek](https://www.deepseek.com/en) etc.). Later, we will talk in
-some detail about how these modern interactive models relate to the
-basic text-generating models like the one we will look at in this
-notebook.
+[DeepSeek](https://www.deepseek.com/en) etc.).
 
-We are going to explore text generation with GPT-style
-Transformers. This notebook loosely follows Chapter 5 of the Natural
+In this notebook we explore text generation with GPT-style
+Transformers. It loosely follows Chapter 5 of the Natural
 Language Processing With Transformers book, and its associated
 notebook. This notebook introduces you to some concepts related to
 generating text, and features two exercises:
@@ -143,7 +140,13 @@ engine allows it, you may also try the larger models GPT-Medium,
 GPT-Large, or GPT-XL. Performance quality tends to go up with larger
 models.
 
+(notebook10)=
+## Notebook 10: Build your own Diffusion Language Model
 
+[Run this Notebook on Colab](https://colab.research.google.com/drive/1qcD6okuqXUPGjhrD9EkWSx_JfXivbYGf?usp=sharing)
 
-
-
+In {ref}`lecturediff` [Ruurd
+Kuiper](https://research.umcutrecht.nl/researchers/ruurd-kuiper/)
+talked about diffusion-based LLMs. In this notebook you get to build
+your own diffusion-based LLM, starting with the finetuning of a
+regular Transformer LLM, Llama 3.2 1B.

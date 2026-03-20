@@ -116,12 +116,12 @@ mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Fabian Ferrari: Governance of Transformers
 
-[Fabian Ferrari](https://www.fabianlferrari.com/)
-(Utrecht University) talks about the *governance of
-Transformers*, introducing a thought-provoking contrast between the
-*relentless computing* of commercial AI, versus a *conditional
-computing* practice that would allow governments to stimulate the
-development of AI conditioned on the return of public value.
+[Fabian Ferrari](https://www.fabianlferrari.com/) (Utrecht University)
+talks about the *governance of Transformers*. Taking a global
+perspective, he puts the EU in focus and discusssses the three
+challenges faced by the EU: foreign ownership of the AI stack, the
+tension between public funding, private interests, and the
+geopolitical situation.
 
 <iframe src="_static/Ferrari-2026.pdf"
    width="780" height="484"></iframe>

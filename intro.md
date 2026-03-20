@@ -23,14 +23,16 @@ This website accompanies the [Utrecht University](https://www.uu.nl/en) [Applied
 The [Applied Data Science
 Master](https://www.uu.nl/en/masters/applied-data-science) program is
 a one-year Master program. The live course is held yearly in
-February-April. The current webpages are a mix between new 2026 content (updated weekly) and content from the 2025 issue.
+February-April. The current webpages represents all new 2026 content
+and features some content from the 2025 issue.
 
 The content was created by [Antal van den
 Bosch](https://antalvandenbosch.nl/), [Lisa
 Bylinina](https://bylinina.github.io/), Yingjin Song, [Menan
 Velayuthan](https://vmenan.github.io/), and [Yupei
-Du](https://yupei.nl/). Guest lectures were given by [Lukas
-Edman](https://leukas.github.io/cv/), [Fabian
+Du](https://yupei.nl/). Guest lectures were given by [Ruurd
+Kuiper](https://research.umcutrecht.nl/researchers/ruurd-kuiper/),
+[Lukas Edman](https://leukas.github.io/cv/), [Fabian
 Ferrari](https://www.fabianlferrari.com/), and Jakub Zavrel ([Zeta
 Alpha](https://www.zeta-alpha.com/)). [Tijmen
 Baarda](https://www.uu.nl/medewerkers/TCBaarda) and [Arjan

@@ -145,7 +145,7 @@ models.
 
 [Run this Notebook on Colab](https://colab.research.google.com/drive/1qcD6okuqXUPGjhrD9EkWSx_JfXivbYGf?usp=sharing)
 
-In {ref}`lecturediff` [Ruurd
+In {ref}`lectureguest` [Ruurd
 Kuiper](https://research.umcutrecht.nl/researchers/ruurd-kuiper/)
 talked about diffusion-based LLMs. In this notebook you get to build
 your own diffusion-based LLM, starting with the finetuning of a

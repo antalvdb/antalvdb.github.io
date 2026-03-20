@@ -122,7 +122,7 @@ development of AI conditioned on the return of public value.
 <iframe src="docs/Ferrari-2026.pdf"
    width="780" height="484">
 
-(lecturediff)= [Ruurd
+[Ruurd
 Kuiper](https://research.umcutrecht.nl/researchers/ruurd-kuiper/)
 introduces the topic of diffusion-based LLMs, an idea that deviates
 from the standard left-to-right autoregressive text generation

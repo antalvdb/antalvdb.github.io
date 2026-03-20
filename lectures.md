@@ -97,6 +97,8 @@ implicit and explicit reasoning.
 (lectureguest)=
 ## Guest Lectures
 
+### Lukas Edman: Tokenization
+
 [Lukas Edman](https://leukas.github.io/cv/) (TU Munich) talked about
 tokenization, the essential first step in the training process:
 inducing, from training text, a limited token vocabulary consisting of
@@ -112,6 +114,8 @@ src="https://docs.google.com/presentation/d/e/2PACX-1vQ1BMBiQQIGjgr4s1Qsxj7PbITO
 frameborder="0" width="780" height="484" allowfullscreen="true"
 mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+### Fabian Ferrari: Governance of Transformers
+
 [Fabian Ferrari](https://www.fabianlferrari.com/)
 (Utrecht University) talks about the *governance of
 Transformers*, introducing a thought-provoking contrast between the
@@ -121,6 +125,8 @@ development of AI conditioned on the return of public value.
 
 <iframe src="_static/Ferrari-2026.pdf"
    width="780" height="484"></iframe>
+
+### Ruurd Kuiper: Diffusion-based LLMs
 
 [Ruurd
 Kuiper](https://research.umcutrecht.nl/researchers/ruurd-kuiper/)

@@ -120,7 +120,7 @@ computing* practice that would allow governments to stimulate the
 development of AI conditioned on the return of public value.
 
 <iframe src="docs/Ferrari-2026.pdf"
-   width="780" height="484">
+   width="780" height="484"></iframe>
 
 [Ruurd
 Kuiper](https://research.umcutrecht.nl/researchers/ruurd-kuiper/)

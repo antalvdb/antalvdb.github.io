@@ -119,7 +119,7 @@ Transformers*, introducing a thought-provoking contrast between the
 computing* practice that would allow governments to stimulate the
 development of AI conditioned on the return of public value.
 
-<iframe src="docs/Ferrari-2026.pdf"
+<iframe src="_static/Ferrari-2026.pdf"
    width="780" height="484"></iframe>
 
 [Ruurd

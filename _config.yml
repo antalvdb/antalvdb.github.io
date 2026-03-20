@@ -9,6 +9,8 @@ sphinx:
   recursive_update: true
   config:
     copyright: "2026"
+    html_extra_path:
+      - docs
     html_theme_options:
       repository_provider: github
 

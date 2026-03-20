@@ -140,7 +140,6 @@ This lecture is accompanied by {ref}`notebook10`.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT03k6-uZZxphOG0iX38bHM3fW7dSX6x_0-07yIKr2CmGbTK-5VFsDQPuUg36_UHOuNRYQ_ZDRqzDSQ/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="780" height="484" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-
 (lecturemisc)=
 ## The Mixed Bag Lecture
 
